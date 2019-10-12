@@ -106,4 +106,4 @@ As you can see the above parts there are number of methods but not perform state
 
 All these methods perform different in different problems here a some over view of these methods
 
-![Part 4](part_4.jog)
+![Part 4](part_4.jpg)
