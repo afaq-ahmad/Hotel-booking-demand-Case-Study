@@ -1,0 +1,2 @@
+# Hotel-booking-demand-Case-Study
+This notebook contains a series of exercises designed to explore a range of data science, python scripting, and quantitative reasoning skills. You can, in principle. solve these exercises using a number of different programming languages/environments, but it will likely be easiest for you to simply fill out this notebook with your solutions in the relevant sections following each exercise.
